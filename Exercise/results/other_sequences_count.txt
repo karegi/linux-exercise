@@ -1,0 +1,2 @@
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:260
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/nrf1_seq.fa:10193

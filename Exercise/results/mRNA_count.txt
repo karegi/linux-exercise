@@ -1,0 +1,2 @@
+./Combined_data.fa:0
+./nrf1_seq.fa:90

@@ -1,0 +1,12 @@
+   2727 /home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:A
+   2431 /home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:C
+   3581 /home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:G
+   2138 /home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:T
+ 215511 /home/milka/Assignment1/linux-exercise/Exercise/data/sequences/nrf1_seq.fa:A
+ 184683 /home/milka/Assignment1/linux-exercise/Exercise/data/sequences/nrf1_seq.fa:C
+ 193884 /home/milka/Assignment1/linux-exercise/Exercise/data/sequences/nrf1_seq.fa:G
+ 216546 /home/milka/Assignment1/linux-exercise/Exercise/data/sequences/nrf1_seq.fa:T
+    743 /home/milka/Assignment1/linux-exercise/Exercise/data/sequences/nrf1_seq.fa:a
+    430 /home/milka/Assignment1/linux-exercise/Exercise/data/sequences/nrf1_seq.fa:c
+     40 /home/milka/Assignment1/linux-exercise/Exercise/data/sequences/nrf1_seq.fa:g
+    571 /home/milka/Assignment1/linux-exercise/Exercise/data/sequences/nrf1_seq.fa:t

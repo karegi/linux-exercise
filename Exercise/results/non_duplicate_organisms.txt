@@ -1,0 +1,118 @@
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_A01-PB-B_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_A02-PB-M2_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_A03-VU_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_B01-PB-C_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_B02-PB-N1_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_C01-PB-E_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_C02-PB-N2_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_D02-PB-P_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_E01-PB-H2_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_E02-PB-R_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_F01-PB-I_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_F02-PB-S_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_G01-PB-K_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_G02-PB-T_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_H01-PB-M1_27F
+/home/milka/Assignment1/linux-exercise/Exercise/data/sequences/Combined_data.fa:>6_H02-OC_27F
+Homo sapiens alpha palindromic binding protein mRNA, complete cds
+Homo sapiens nuclear respiratory factor 1 (NRF1), transcript variant 2, mRNA
+Homo sapiens nuclear respiratory factor-1 (NRF-1) mRNA, complete cds
+Mus musculus 0 day neonate cerebellum cDNA, RIKEN full-length enriched library, clone:C230066G05 product:nuclear respiratory factor 1, full insert sequence
+Mus musculus 10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732483G17 product:nuclear respiratory factor 1, full insert sequence
+Mus musculus 11 days embryo head cDNA, RIKEN full-length enriched library, clone:6230412K09 product:nuclear respiratory factor 1, full insert sequence
+Mus musculus 13 days embryo forelimb cDNA, RIKEN full-length enriched library, clone:5930405C14 product:nuclear respiratory factor 1, full insert sequence
+Mus musculus 14 days embryo liver cDNA, RIKEN full-length enriched library, clone:4432414E03 product:nuclear respiratory factor 1, full insert sequence
+Mus musculus 16 days neonate thymus cDNA, RIKEN full-length enriched library, clone:A130038J21 product:SIMILAR TO NUCLEAR RESPIRATORY FACTOR 1 homolog [Mus musculus], full insert sequence
+Mus musculus 6 BAC RP23-1D15 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
+Mus musculus 6 BAC RP23-450O1 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
+Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 1, mRNA
+Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 10, mRNA
+Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 2, mRNA
+Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 5, mRNA
+Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 6, mRNA
+Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 7, mRNA
+Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 8, mRNA
+Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 9, mRNA
+Mus musculus nuclear respiratory factor-1 (Nrf1) mRNA, complete cds
+Mus musculus targeted KO-first, conditional ready, lacZ-tagged mutant allele Nrf1:tm1a(KOMP)Wtsi; transgenic
+Mus musculus targeted non-conditional, lacZ-tagged mutant allele Nrf1:tm1e(KOMP)Wtsi; transgenic
+PREDICTED: Aotus nancymaae nuclear respiratory factor 1 (NRF1), transcript variant X1, mRNA
+PREDICTED: Aotus nancymaae nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+PREDICTED: Castor canadensis nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+PREDICTED: Cebus capucinus imitator nuclear respiratory factor 1 (NRF1), transcript variant X1, mRNA
+PREDICTED: Ceratotherium simum simum nuclear respiratory factor 1 (LOC101391114), transcript variant X2, mRNA
+PREDICTED: Cercocebus atys nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+PREDICTED: Cercocebus atys nuclear respiratory factor 1 (NRF1), transcript variant X3, mRNA
+PREDICTED: Cercocebus atys nuclear respiratory factor 1 (NRF1), transcript variant X4, mRNA
+PREDICTED: Cercocebus atys nuclear respiratory factor 1 (NRF1), transcript variant X5, mRNA
+PREDICTED: Cercocebus atys nuclear respiratory factor 1 (NRF1), transcript variant X6, mRNA
+PREDICTED: Cercocebus atys nuclear respiratory factor 1 (NRF1), transcript variant X7, mRNA
+PREDICTED: Chinchilla lanigera nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+PREDICTED: Chinchilla lanigera nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+PREDICTED: Chinchilla lanigera nuclear respiratory factor 1 (Nrf1), transcript variant X7, mRNA
+PREDICTED: Chinchilla lanigera nuclear respiratory factor 1 (Nrf1), transcript variant X8, mRNA
+PREDICTED: Chinchilla lanigera nuclear respiratory factor 1 (Nrf1), transcript variant X9, mRNA
+PREDICTED: Chlorocebus sabaeus nuclear respiratory factor 1 (NRF1), transcript variant X6, mRNA
+PREDICTED: Chlorocebus sabaeus nuclear respiratory factor 1 (NRF1), transcript variant X7, mRNA
+PREDICTED: Colobus angolensis palliatus nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+PREDICTED: Cricetulus griseus nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+PREDICTED: Cricetulus griseus nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+PREDICTED: Equus asinus nuclear respiratory factor 1 (NRF1), transcript variant X1, mRNA
+PREDICTED: Equus caballus nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+PREDICTED: Equus przewalskii nuclear respiratory factor 1 (NRF1), mRNA
+PREDICTED: Galeopterus variegatus nuclear respiratory factor 1 (NRF1), mRNA
+PREDICTED: Heterocephalus glaber nuclear respiratory factor 1 (Nrf1), transcript variant X1, mRNA
+PREDICTED: Heterocephalus glaber nuclear respiratory factor 1 (Nrf1), transcript variant X2, mRNA
+PREDICTED: Heterocephalus glaber nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+PREDICTED: Ictidomys tridecemlineatus nuclear respiratory factor 1 (Nrf1), transcript variant X1, mRNA
+PREDICTED: Ictidomys tridecemlineatus nuclear respiratory factor 1 (Nrf1), transcript variant X2, mRNA
+PREDICTED: Ictidomys tridecemlineatus nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+PREDICTED: Ictidomys tridecemlineatus nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+PREDICTED: Macaca fascicularis nuclear respiratory factor 1 (NRF1), transcript variant X4, mRNA
+PREDICTED: Macaca fascicularis nuclear respiratory factor 1 (NRF1), transcript variant X5, mRNA
+PREDICTED: Macaca mulatta nuclear respiratory factor 1 (NRF1), transcript variant X1, mRNA
+PREDICTED: Macaca mulatta nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+PREDICTED: Macaca mulatta nuclear respiratory factor 1 (NRF1), transcript variant X3, mRNA
+PREDICTED: Macaca mulatta nuclear respiratory factor 1 (NRF1), transcript variant X4, mRNA
+PREDICTED: Macaca nemestrina nuclear respiratory factor 1 (NRF1), transcript variant X11, mRNA
+PREDICTED: Macaca nemestrina nuclear respiratory factor 1 (NRF1), transcript variant X12, mRNA
+PREDICTED: Macaca nemestrina nuclear respiratory factor 1 (NRF1), transcript variant X13, mRNA
+PREDICTED: Mandrillus leucophaeus nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+PREDICTED: Marmota marmota marmota nuclear respiratory factor 1 (Nrf1), transcript variant X1, mRNA
+PREDICTED: Marmota marmota marmota nuclear respiratory factor 1 (Nrf1), transcript variant X2, mRNA
+PREDICTED: Mesocricetus auratus nuclear respiratory factor 1 (Nrf1), transcript variant X2, mRNA
+PREDICTED: Microcebus murinus nuclear respiratory factor 1 (NRF1), transcript variant X7, mRNA
+PREDICTED: Microtus ochrogaster nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+PREDICTED: Mus caroli nuclear respiratory factor 1 (Nrf1), transcript variant X5, mRNA
+PREDICTED: Mus caroli nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X5, mRNA
+PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X8, mRNA
+PREDICTED: Mus pahari nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+PREDICTED: Mus pahari nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+PREDICTED: Nannospalax galili nuclear respiratory factor 1 (Nrf1), transcript variant X5, mRNA
+PREDICTED: Nannospalax galili nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+PREDICTED: Otolemur garnettii nuclear respiratory factor 1 (NRF1), mRNA
+PREDICTED: Pan paniscus nuclear respiratory factor 1 (NRF1), transcript variant X4, mRNA
+PREDICTED: Pan troglodytes nuclear respiratory factor 1 (NRF1), transcript variant X7, mRNA
+PREDICTED: Pan troglodytes nuclear respiratory factor 1 (NRF1), transcript variant X8, mRNA
+PREDICTED: Pan troglodytes nuclear respiratory factor 1 (NRF1), transcript variant X9, mRNA
+PREDICTED: Papio anubis nuclear respiratory factor 1 (NRF1), transcript variant X10, mRNA
+PREDICTED: Papio anubis nuclear respiratory factor 1 (NRF1), transcript variant X11, mRNA
+PREDICTED: Papio anubis nuclear respiratory factor 1 (NRF1), transcript variant X12, mRNA
+PREDICTED: Peromyscus maniculatus bairdii nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+PREDICTED: Peromyscus maniculatus bairdii nuclear respiratory factor 1 (Nrf1), transcript variant X5, mRNA
+PREDICTED: Pongo abelii nuclear respiratory factor 1 (NRF1), transcript variant X1, mRNA
+PREDICTED: Pongo abelii nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+PREDICTED: Pongo abelii nuclear respiratory factor 1 (NRF1), transcript variant X3, mRNA
+PREDICTED: Rattus norvegicus nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+PREDICTED: Rattus norvegicus nuclear respiratory factor 1 (Nrf1), transcript variant X5, mRNA
+PREDICTED: Rhinopithecus roxellana nuclear respiratory factor 1 (NRF1), transcript variant X1, mRNA
+PREDICTED: Rhinopithecus roxellana nuclear respiratory factor 1 (NRF1), transcript variant X2, mRNA
+PREDICTED: Rhinopithecus roxellana nuclear respiratory factor 1 (NRF1), transcript variant X3, mRNA
+PREDICTED: Rhinopithecus roxellana nuclear respiratory factor 1 (NRF1), transcript variant X4, mRNA
+PREDICTED: Rhinopithecus roxellana nuclear respiratory factor 1 (NRF1), transcript variant X5, mRNA
+is my > other other sequence
+this is my new weird sequence
